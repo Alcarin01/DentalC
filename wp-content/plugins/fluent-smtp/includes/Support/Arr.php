@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;FluentMail\Includes\Support\MacroableTrait&quot; not found in <b>/Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/fluent-smtp/includes/Support/Arr.php</b> on line <b>10</b><br>

@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;FluentMail\App\Services\Mailer\ValidatorTrait&quot; not found in <b>/Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/fluent-smtp/app/Services/Mailer/Providers/SparkPost/ValidatorTrait.php</b> on line <b>8</b><br>
