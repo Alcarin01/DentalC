@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Trait &quot;GuzzleHttp\ClientTrait&quot; not found in <b>/Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/vendor/guzzlehttp/guzzle/src/Client.php</b> on line <b>17</b><br>

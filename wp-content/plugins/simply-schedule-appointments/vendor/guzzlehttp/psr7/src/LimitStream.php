@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Trait &quot;GuzzleHttp\Psr7\StreamDecoratorTrait&quot; not found in <b>/Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/vendor/guzzlehttp/psr7/src/LimitStream.php</b> on line <b>12</b><br>

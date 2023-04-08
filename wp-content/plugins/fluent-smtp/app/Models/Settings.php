@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Trait &quot;FluentMail\App\Models\Traits\SendTestEmailTrait&quot; not found in <b>/Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/fluent-smtp/app/Models/Settings.php</b> on line <b>9</b><br>

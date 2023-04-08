@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Trait &quot;FluentMail\Includes\Request\FileHandler&quot; not found in <b>/Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/fluent-smtp/includes/Request/Request.php</b> on line <b>7</b><br>

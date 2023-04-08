@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Trait &quot;GuzzleHttp\Psr7\MessageTrait&quot; not found in <b>/Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/vendor/guzzlehttp/psr7/src/Response.php</b> on line <b>13</b><br>
