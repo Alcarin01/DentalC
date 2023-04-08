@@ -9,7 +9,7 @@
  /* Deshboard Header */
  
  .exad-elements-dashboard-wrapper {
-     background-image: url('https://alcarin01.github.io/Clinica/wp-content/plugins/exclusive-addons-for-elementor/admin/assets/img/wrapper-bg.svg');
+     background-image: url('https://alcarin01.github.io/DentalC/wp-content/plugins/exclusive-addons-for-elementor/admin/assets/img/wrapper-bg.svg');
      background-position: right bottom;
      background-repeat: no-repeat;
      padding: 30px 25px;
@@ -245,14 +245,14 @@
  /* Content Wrapper */
  .exad-admin-general-wrapper {
      margin-top: 30px;
-     /* background-image: url('https://alcarin01.github.io/Clinica/wp-content/plugins/exclusive-addons-for-elementor/admin/assets/img/wrapper-bg.svg');
+     /* background-image: url('https://alcarin01.github.io/DentalC/wp-content/plugins/exclusive-addons-for-elementor/admin/assets/img/wrapper-bg.svg');
      background-position: right bottom;
      background-repeat: no-repeat; */
  }
  
  .exad-admin-banner {
      background-color: #6A36FF;
-     background-image: url('https://alcarin01.github.io/Clinica/wp-content/plugins/exclusive-addons-for-elementor/admin/assets/img/banner-bg.svg');
+     background-image: url('https://alcarin01.github.io/DentalC/wp-content/plugins/exclusive-addons-for-elementor/admin/assets/img/banner-bg.svg');
      background-position: right bottom;
      background-repeat: no-repeat;
      background-size: cover;
@@ -464,7 +464,7 @@
      text-align: center;
      background-color: #6A36FF;
      border-radius: 20px;
-     background-image: url('https://alcarin01.github.io/Clinica/wp-content/plugins/exclusive-addons-for-elementor/admin/assets/img/banner-bg.svg');
+     background-image: url('https://alcarin01.github.io/DentalC/wp-content/plugins/exclusive-addons-for-elementor/admin/assets/img/banner-bg.svg');
      background-size: cover;
      background-repeat: no-repeat;
  }
@@ -521,7 +521,7 @@
     transition: all .3s ease;
     text-align: center;
     border-radius: 20px;
-    background-image: url(https://alcarin01.github.io/Clinica/wp-content/plugins/exclusive-addons-for-elementor/admin/assets/img/popup-message-background.svg);
+    background-image: url(https://alcarin01.github.io/DentalC/wp-content/plugins/exclusive-addons-for-elementor/admin/assets/img/popup-message-background.svg);
     background-position: right bottom;
     background-repeat: no-repeat;
 }

@@ -2483,11 +2483,11 @@ ul.exad-call-to-action-buttons {
 /* Exclusive Addons Font CSS starts */
 @font-face {
   font-family: 'Exclusive Icons';
-  src:  url('https://alcarin01.github.io/Clinica/wp-content/plugins/exclusive-addons-for-elementor/assets/fonts/exad-logo.eot?1gib8x');
-  src:  url('https://alcarin01.github.io/Clinica/wp-content/plugins/exclusive-addons-for-elementor/assets/fonts/exad-logo.eot?1gib8x#iefix') format('embedded-opentype'),
-    url('https://alcarin01.github.io/Clinica/wp-content/plugins/exclusive-addons-for-elementor/assets/fonts/exad-logo.ttf?1gib8x') format('truetype'),
-    url('https://alcarin01.github.io/Clinica/wp-content/plugins/exclusive-addons-for-elementor/assets/fonts/exad-logo.woff?1gib8x') format('woff'),
-    url('https://alcarin01.github.io/Clinica/wp-content/plugins/exclusive-addons-for-elementor/assets/fonts/exad-logo.svg?1gib8x#exad-logo') format('svg');
+  src:  url('https://alcarin01.github.io/DentalC/wp-content/plugins/exclusive-addons-for-elementor/assets/fonts/exad-logo.eot?1gib8x');
+  src:  url('https://alcarin01.github.io/DentalC/wp-content/plugins/exclusive-addons-for-elementor/assets/fonts/exad-logo.eot?1gib8x#iefix') format('embedded-opentype'),
+    url('https://alcarin01.github.io/DentalC/wp-content/plugins/exclusive-addons-for-elementor/assets/fonts/exad-logo.ttf?1gib8x') format('truetype'),
+    url('https://alcarin01.github.io/DentalC/wp-content/plugins/exclusive-addons-for-elementor/assets/fonts/exad-logo.woff?1gib8x') format('woff'),
+    url('https://alcarin01.github.io/DentalC/wp-content/plugins/exclusive-addons-for-elementor/assets/fonts/exad-logo.svg?1gib8x#exad-logo') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;

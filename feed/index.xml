@@ -9,8 +9,8 @@
 
 <channel>
 	<title>ClinicDental</title>
-	<atom:link href="http://localhost/feed/?simply_static_page=77984" rel="self" type="application/rss+xml" />
-	<link>https://alcarin01.github.io/Clinica/</link>
+	<atom:link href="http://localhost/feed/?simply_static_page=84543" rel="self" type="application/rss+xml" />
+	<link>https://alcarin01.github.io/DentalC/</link>
 	<description></description>
 	<lastBuildDate>Sat, 08 Apr 2023 12:51:44 +0000</lastBuildDate>
 	<language>es-MX</language>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
-	<url>https://alcarin01.github.io/Clinica/wp-content/uploads/2023/03/cropped-Captura-de-Pantalla-2023-03-23-a-las-3.13.03-p.m-PhotoRoom-32x32.png</url>
+	<url>https://alcarin01.github.io/DentalC/wp-content/uploads/2023/03/cropped-Captura-de-Pantalla-2023-03-23-a-las-3.13.03-p.m-PhotoRoom-32x32.png</url>
 	<title>ClinicDental</title>
-	<link>https://alcarin01.github.io/Clinica/</link>
+	<link>https://alcarin01.github.io/DentalC/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
