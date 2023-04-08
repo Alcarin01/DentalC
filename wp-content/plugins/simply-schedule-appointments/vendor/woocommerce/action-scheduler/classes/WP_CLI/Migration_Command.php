@@ -1,5 +1,24 @@
 <br>
-<b>Fatal error</b>:  Uncaught Error: Class &quot;WP_CLI_Command&quot; not found in /Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/vendor/woocommerce/action-scheduler/classes/WP_CLI/Migration_Command.php:22
-Stack trace:
-#0 {main}
-  thrown in <b>/Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/vendor/woocommerce/action-scheduler/classes/WP_CLI/Migration_Command.php</b> on line <b>22</b><br>
+<font size="1"><table class="xdebug-error xe-uncaught-exception" dir="ltr" border="1" cellspacing="0" cellpadding="1">
+<tr><th align="left" bgcolor="#f57900" colspan="5">
+<span style="background-color: #cc0000; color: #fce94f; font-size: x-large;">( ! )</span> Fatal error: Uncaught Error: Class "WP_CLI_Command" not found in /Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/vendor/woocommerce/action-scheduler/classes/WP_CLI/Migration_Command.php on line <i>22</i>
+</th></tr>
+<tr><th align="left" bgcolor="#f57900" colspan="5">
+<span style="background-color: #cc0000; color: #fce94f; font-size: x-large;">( ! )</span> Error: Class "WP_CLI_Command" not found in /Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/vendor/woocommerce/action-scheduler/classes/WP_CLI/Migration_Command.php on line <i>22</i>
+</th></tr>
+<tr><th align="left" bgcolor="#e9b96e" colspan="5">Call Stack</th></tr>
+<tr>
+<th align="center" bgcolor="#eeeeec">#</th>
+<th align="left" bgcolor="#eeeeec">Time</th>
+<th align="left" bgcolor="#eeeeec">Memory</th>
+<th align="left" bgcolor="#eeeeec">Function</th>
+<th align="left" bgcolor="#eeeeec">Location</th>
+</tr>
+<tr>
+<td bgcolor="#eeeeec" align="center">1</td>
+<td bgcolor="#eeeeec" align="center">0.0022</td>
+<td bgcolor="#eeeeec" align="right">376120</td>
+<td bgcolor="#eeeeec">{main}(  )</td>
+<td title="/Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/vendor/woocommerce/action-scheduler/classes/WP_CLI/Migration_Command.php" bgcolor="#eeeeec">.../Migration_Command.php<b>:</b>0</td>
+</tr>
+</table></font>

@@ -1,38 +1,323 @@
 <br>
-<b>Warning</b>:  Undefined variable $settings in <b>/Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/includes/beaver-builder/modules/booking/includes/frontend.php</b> on line <b>13</b><br>
+<font size="1"><table class="xdebug-error xe-warning" dir="ltr" border="1" cellspacing="0" cellpadding="1">
+<tr><th align="left" bgcolor="#f57900" colspan="5">
+<span style="background-color: #cc0000; color: #fce94f; font-size: x-large;">( ! )</span> Warning: Undefined variable $settings in /Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/includes/beaver-builder/modules/booking/includes/frontend.php on line <i>13</i>
+</th></tr>
+<tr><th align="left" bgcolor="#e9b96e" colspan="5">Call Stack</th></tr>
+<tr>
+<th align="center" bgcolor="#eeeeec">#</th>
+<th align="left" bgcolor="#eeeeec">Time</th>
+<th align="left" bgcolor="#eeeeec">Memory</th>
+<th align="left" bgcolor="#eeeeec">Function</th>
+<th align="left" bgcolor="#eeeeec">Location</th>
+</tr>
+<tr>
+<td bgcolor="#eeeeec" align="center">1</td>
+<td bgcolor="#eeeeec" align="center">0.0020</td>
+<td bgcolor="#eeeeec" align="right">369384</td>
+<td bgcolor="#eeeeec">{main}(  )</td>
+<td title="/Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/includes/beaver-builder/modules/booking/includes/frontend.php" bgcolor="#eeeeec">.../frontend.php<b>:</b>0</td>
+</tr>
+</table></font>
 <br>
-<b>Warning</b>:  Attempt to read property "appointment_type" on null in <b>/Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/includes/beaver-builder/modules/booking/includes/frontend.php</b> on line <b>13</b><br>
+<font size="1"><table class="xdebug-error xe-warning" dir="ltr" border="1" cellspacing="0" cellpadding="1">
+<tr><th align="left" bgcolor="#f57900" colspan="5">
+<span style="background-color: #cc0000; color: #fce94f; font-size: x-large;">( ! )</span> Warning: Attempt to read property "appointment_type" on null in /Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/includes/beaver-builder/modules/booking/includes/frontend.php on line <i>13</i>
+</th></tr>
+<tr><th align="left" bgcolor="#e9b96e" colspan="5">Call Stack</th></tr>
+<tr>
+<th align="center" bgcolor="#eeeeec">#</th>
+<th align="left" bgcolor="#eeeeec">Time</th>
+<th align="left" bgcolor="#eeeeec">Memory</th>
+<th align="left" bgcolor="#eeeeec">Function</th>
+<th align="left" bgcolor="#eeeeec">Location</th>
+</tr>
+<tr>
+<td bgcolor="#eeeeec" align="center">1</td>
+<td bgcolor="#eeeeec" align="center">0.0020</td>
+<td bgcolor="#eeeeec" align="right">369384</td>
+<td bgcolor="#eeeeec">{main}(  )</td>
+<td title="/Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/includes/beaver-builder/modules/booking/includes/frontend.php" bgcolor="#eeeeec">.../frontend.php<b>:</b>0</td>
+</tr>
+</table></font>
 <br>
-<b>Warning</b>:  Undefined variable $settings in <b>/Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/includes/beaver-builder/modules/booking/includes/frontend.php</b> on line <b>13</b><br>
+<font size="1"><table class="xdebug-error xe-warning" dir="ltr" border="1" cellspacing="0" cellpadding="1">
+<tr><th align="left" bgcolor="#f57900" colspan="5">
+<span style="background-color: #cc0000; color: #fce94f; font-size: x-large;">( ! )</span> Warning: Undefined variable $settings in /Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/includes/beaver-builder/modules/booking/includes/frontend.php on line <i>13</i>
+</th></tr>
+<tr><th align="left" bgcolor="#e9b96e" colspan="5">Call Stack</th></tr>
+<tr>
+<th align="center" bgcolor="#eeeeec">#</th>
+<th align="left" bgcolor="#eeeeec">Time</th>
+<th align="left" bgcolor="#eeeeec">Memory</th>
+<th align="left" bgcolor="#eeeeec">Function</th>
+<th align="left" bgcolor="#eeeeec">Location</th>
+</tr>
+<tr>
+<td bgcolor="#eeeeec" align="center">1</td>
+<td bgcolor="#eeeeec" align="center">0.0020</td>
+<td bgcolor="#eeeeec" align="right">369384</td>
+<td bgcolor="#eeeeec">{main}(  )</td>
+<td title="/Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/includes/beaver-builder/modules/booking/includes/frontend.php" bgcolor="#eeeeec">.../frontend.php<b>:</b>0</td>
+</tr>
+</table></font>
 <br>
-<b>Warning</b>:  Attempt to read property "appointment_type" on null in <b>/Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/includes/beaver-builder/modules/booking/includes/frontend.php</b> on line <b>13</b><br>
+<font size="1"><table class="xdebug-error xe-warning" dir="ltr" border="1" cellspacing="0" cellpadding="1">
+<tr><th align="left" bgcolor="#f57900" colspan="5">
+<span style="background-color: #cc0000; color: #fce94f; font-size: x-large;">( ! )</span> Warning: Attempt to read property "appointment_type" on null in /Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/includes/beaver-builder/modules/booking/includes/frontend.php on line <i>13</i>
+</th></tr>
+<tr><th align="left" bgcolor="#e9b96e" colspan="5">Call Stack</th></tr>
+<tr>
+<th align="center" bgcolor="#eeeeec">#</th>
+<th align="left" bgcolor="#eeeeec">Time</th>
+<th align="left" bgcolor="#eeeeec">Memory</th>
+<th align="left" bgcolor="#eeeeec">Function</th>
+<th align="left" bgcolor="#eeeeec">Location</th>
+</tr>
+<tr>
+<td bgcolor="#eeeeec" align="center">1</td>
+<td bgcolor="#eeeeec" align="center">0.0020</td>
+<td bgcolor="#eeeeec" align="right">369384</td>
+<td bgcolor="#eeeeec">{main}(  )</td>
+<td title="/Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/includes/beaver-builder/modules/booking/includes/frontend.php" bgcolor="#eeeeec">.../frontend.php<b>:</b>0</td>
+</tr>
+</table></font>
 <br>
-<b>Warning</b>:  Undefined variable $settings in <b>/Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/includes/beaver-builder/modules/booking/includes/frontend.php</b> on line <b>19</b><br>
+<font size="1"><table class="xdebug-error xe-warning" dir="ltr" border="1" cellspacing="0" cellpadding="1">
+<tr><th align="left" bgcolor="#f57900" colspan="5">
+<span style="background-color: #cc0000; color: #fce94f; font-size: x-large;">( ! )</span> Warning: Undefined variable $settings in /Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/includes/beaver-builder/modules/booking/includes/frontend.php on line <i>19</i>
+</th></tr>
+<tr><th align="left" bgcolor="#e9b96e" colspan="5">Call Stack</th></tr>
+<tr>
+<th align="center" bgcolor="#eeeeec">#</th>
+<th align="left" bgcolor="#eeeeec">Time</th>
+<th align="left" bgcolor="#eeeeec">Memory</th>
+<th align="left" bgcolor="#eeeeec">Function</th>
+<th align="left" bgcolor="#eeeeec">Location</th>
+</tr>
+<tr>
+<td bgcolor="#eeeeec" align="center">1</td>
+<td bgcolor="#eeeeec" align="center">0.0020</td>
+<td bgcolor="#eeeeec" align="right">369384</td>
+<td bgcolor="#eeeeec">{main}(  )</td>
+<td title="/Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/includes/beaver-builder/modules/booking/includes/frontend.php" bgcolor="#eeeeec">.../frontend.php<b>:</b>0</td>
+</tr>
+</table></font>
 <br>
-<b>Warning</b>:  Attempt to read property "appointment_type" on null in <b>/Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/includes/beaver-builder/modules/booking/includes/frontend.php</b> on line <b>19</b><br>
+<font size="1"><table class="xdebug-error xe-warning" dir="ltr" border="1" cellspacing="0" cellpadding="1">
+<tr><th align="left" bgcolor="#f57900" colspan="5">
+<span style="background-color: #cc0000; color: #fce94f; font-size: x-large;">( ! )</span> Warning: Attempt to read property "appointment_type" on null in /Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/includes/beaver-builder/modules/booking/includes/frontend.php on line <i>19</i>
+</th></tr>
+<tr><th align="left" bgcolor="#e9b96e" colspan="5">Call Stack</th></tr>
+<tr>
+<th align="center" bgcolor="#eeeeec">#</th>
+<th align="left" bgcolor="#eeeeec">Time</th>
+<th align="left" bgcolor="#eeeeec">Memory</th>
+<th align="left" bgcolor="#eeeeec">Function</th>
+<th align="left" bgcolor="#eeeeec">Location</th>
+</tr>
+<tr>
+<td bgcolor="#eeeeec" align="center">1</td>
+<td bgcolor="#eeeeec" align="center">0.0020</td>
+<td bgcolor="#eeeeec" align="right">369384</td>
+<td bgcolor="#eeeeec">{main}(  )</td>
+<td title="/Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/includes/beaver-builder/modules/booking/includes/frontend.php" bgcolor="#eeeeec">.../frontend.php<b>:</b>0</td>
+</tr>
+</table></font>
 <br>
-<b>Warning</b>:  Undefined variable $settings in <b>/Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/includes/beaver-builder/modules/booking/includes/frontend.php</b> on line <b>22</b><br>
+<font size="1"><table class="xdebug-error xe-warning" dir="ltr" border="1" cellspacing="0" cellpadding="1">
+<tr><th align="left" bgcolor="#f57900" colspan="5">
+<span style="background-color: #cc0000; color: #fce94f; font-size: x-large;">( ! )</span> Warning: Undefined variable $settings in /Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/includes/beaver-builder/modules/booking/includes/frontend.php on line <i>22</i>
+</th></tr>
+<tr><th align="left" bgcolor="#e9b96e" colspan="5">Call Stack</th></tr>
+<tr>
+<th align="center" bgcolor="#eeeeec">#</th>
+<th align="left" bgcolor="#eeeeec">Time</th>
+<th align="left" bgcolor="#eeeeec">Memory</th>
+<th align="left" bgcolor="#eeeeec">Function</th>
+<th align="left" bgcolor="#eeeeec">Location</th>
+</tr>
+<tr>
+<td bgcolor="#eeeeec" align="center">1</td>
+<td bgcolor="#eeeeec" align="center">0.0020</td>
+<td bgcolor="#eeeeec" align="right">369384</td>
+<td bgcolor="#eeeeec">{main}(  )</td>
+<td title="/Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/includes/beaver-builder/modules/booking/includes/frontend.php" bgcolor="#eeeeec">.../frontend.php<b>:</b>0</td>
+</tr>
+</table></font>
 <br>
-<b>Warning</b>:  Attempt to read property "accent_color" on null in <b>/Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/includes/beaver-builder/modules/booking/includes/frontend.php</b> on line <b>22</b><br>
+<font size="1"><table class="xdebug-error xe-warning" dir="ltr" border="1" cellspacing="0" cellpadding="1">
+<tr><th align="left" bgcolor="#f57900" colspan="5">
+<span style="background-color: #cc0000; color: #fce94f; font-size: x-large;">( ! )</span> Warning: Attempt to read property "accent_color" on null in /Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/includes/beaver-builder/modules/booking/includes/frontend.php on line <i>22</i>
+</th></tr>
+<tr><th align="left" bgcolor="#e9b96e" colspan="5">Call Stack</th></tr>
+<tr>
+<th align="center" bgcolor="#eeeeec">#</th>
+<th align="left" bgcolor="#eeeeec">Time</th>
+<th align="left" bgcolor="#eeeeec">Memory</th>
+<th align="left" bgcolor="#eeeeec">Function</th>
+<th align="left" bgcolor="#eeeeec">Location</th>
+</tr>
+<tr>
+<td bgcolor="#eeeeec" align="center">1</td>
+<td bgcolor="#eeeeec" align="center">0.0020</td>
+<td bgcolor="#eeeeec" align="right">369384</td>
+<td bgcolor="#eeeeec">{main}(  )</td>
+<td title="/Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/includes/beaver-builder/modules/booking/includes/frontend.php" bgcolor="#eeeeec">.../frontend.php<b>:</b>0</td>
+</tr>
+</table></font>
 <br>
-<b>Warning</b>:  Undefined variable $settings in <b>/Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/includes/beaver-builder/modules/booking/includes/frontend.php</b> on line <b>25</b><br>
+<font size="1"><table class="xdebug-error xe-warning" dir="ltr" border="1" cellspacing="0" cellpadding="1">
+<tr><th align="left" bgcolor="#f57900" colspan="5">
+<span style="background-color: #cc0000; color: #fce94f; font-size: x-large;">( ! )</span> Warning: Undefined variable $settings in /Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/includes/beaver-builder/modules/booking/includes/frontend.php on line <i>25</i>
+</th></tr>
+<tr><th align="left" bgcolor="#e9b96e" colspan="5">Call Stack</th></tr>
+<tr>
+<th align="center" bgcolor="#eeeeec">#</th>
+<th align="left" bgcolor="#eeeeec">Time</th>
+<th align="left" bgcolor="#eeeeec">Memory</th>
+<th align="left" bgcolor="#eeeeec">Function</th>
+<th align="left" bgcolor="#eeeeec">Location</th>
+</tr>
+<tr>
+<td bgcolor="#eeeeec" align="center">1</td>
+<td bgcolor="#eeeeec" align="center">0.0020</td>
+<td bgcolor="#eeeeec" align="right">369384</td>
+<td bgcolor="#eeeeec">{main}(  )</td>
+<td title="/Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/includes/beaver-builder/modules/booking/includes/frontend.php" bgcolor="#eeeeec">.../frontend.php<b>:</b>0</td>
+</tr>
+</table></font>
 <br>
-<b>Warning</b>:  Attempt to read property "background_color" on null in <b>/Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/includes/beaver-builder/modules/booking/includes/frontend.php</b> on line <b>25</b><br>
+<font size="1"><table class="xdebug-error xe-warning" dir="ltr" border="1" cellspacing="0" cellpadding="1">
+<tr><th align="left" bgcolor="#f57900" colspan="5">
+<span style="background-color: #cc0000; color: #fce94f; font-size: x-large;">( ! )</span> Warning: Attempt to read property "background_color" on null in /Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/includes/beaver-builder/modules/booking/includes/frontend.php on line <i>25</i>
+</th></tr>
+<tr><th align="left" bgcolor="#e9b96e" colspan="5">Call Stack</th></tr>
+<tr>
+<th align="center" bgcolor="#eeeeec">#</th>
+<th align="left" bgcolor="#eeeeec">Time</th>
+<th align="left" bgcolor="#eeeeec">Memory</th>
+<th align="left" bgcolor="#eeeeec">Function</th>
+<th align="left" bgcolor="#eeeeec">Location</th>
+</tr>
+<tr>
+<td bgcolor="#eeeeec" align="center">1</td>
+<td bgcolor="#eeeeec" align="center">0.0020</td>
+<td bgcolor="#eeeeec" align="right">369384</td>
+<td bgcolor="#eeeeec">{main}(  )</td>
+<td title="/Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/includes/beaver-builder/modules/booking/includes/frontend.php" bgcolor="#eeeeec">.../frontend.php<b>:</b>0</td>
+</tr>
+</table></font>
 <br>
-<b>Warning</b>:  Undefined variable $settings in <b>/Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/includes/beaver-builder/modules/booking/includes/frontend.php</b> on line <b>28</b><br>
+<font size="1"><table class="xdebug-error xe-warning" dir="ltr" border="1" cellspacing="0" cellpadding="1">
+<tr><th align="left" bgcolor="#f57900" colspan="5">
+<span style="background-color: #cc0000; color: #fce94f; font-size: x-large;">( ! )</span> Warning: Undefined variable $settings in /Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/includes/beaver-builder/modules/booking/includes/frontend.php on line <i>28</i>
+</th></tr>
+<tr><th align="left" bgcolor="#e9b96e" colspan="5">Call Stack</th></tr>
+<tr>
+<th align="center" bgcolor="#eeeeec">#</th>
+<th align="left" bgcolor="#eeeeec">Time</th>
+<th align="left" bgcolor="#eeeeec">Memory</th>
+<th align="left" bgcolor="#eeeeec">Function</th>
+<th align="left" bgcolor="#eeeeec">Location</th>
+</tr>
+<tr>
+<td bgcolor="#eeeeec" align="center">1</td>
+<td bgcolor="#eeeeec" align="center">0.0020</td>
+<td bgcolor="#eeeeec" align="right">369384</td>
+<td bgcolor="#eeeeec">{main}(  )</td>
+<td title="/Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/includes/beaver-builder/modules/booking/includes/frontend.php" bgcolor="#eeeeec">.../frontend.php<b>:</b>0</td>
+</tr>
+</table></font>
 <br>
-<b>Warning</b>:  Attempt to read property "font_family" on null in <b>/Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/includes/beaver-builder/modules/booking/includes/frontend.php</b> on line <b>28</b><br>
+<font size="1"><table class="xdebug-error xe-warning" dir="ltr" border="1" cellspacing="0" cellpadding="1">
+<tr><th align="left" bgcolor="#f57900" colspan="5">
+<span style="background-color: #cc0000; color: #fce94f; font-size: x-large;">( ! )</span> Warning: Attempt to read property "font_family" on null in /Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/includes/beaver-builder/modules/booking/includes/frontend.php on line <i>28</i>
+</th></tr>
+<tr><th align="left" bgcolor="#e9b96e" colspan="5">Call Stack</th></tr>
+<tr>
+<th align="center" bgcolor="#eeeeec">#</th>
+<th align="left" bgcolor="#eeeeec">Time</th>
+<th align="left" bgcolor="#eeeeec">Memory</th>
+<th align="left" bgcolor="#eeeeec">Function</th>
+<th align="left" bgcolor="#eeeeec">Location</th>
+</tr>
+<tr>
+<td bgcolor="#eeeeec" align="center">1</td>
+<td bgcolor="#eeeeec" align="center">0.0020</td>
+<td bgcolor="#eeeeec" align="right">369384</td>
+<td bgcolor="#eeeeec">{main}(  )</td>
+<td title="/Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/includes/beaver-builder/modules/booking/includes/frontend.php" bgcolor="#eeeeec">.../frontend.php<b>:</b>0</td>
+</tr>
+</table></font>
 <br>
-<b>Warning</b>:  Undefined variable $settings in <b>/Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/includes/beaver-builder/modules/booking/includes/frontend.php</b> on line <b>31</b><br>
+<font size="1"><table class="xdebug-error xe-warning" dir="ltr" border="1" cellspacing="0" cellpadding="1">
+<tr><th align="left" bgcolor="#f57900" colspan="5">
+<span style="background-color: #cc0000; color: #fce94f; font-size: x-large;">( ! )</span> Warning: Undefined variable $settings in /Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/includes/beaver-builder/modules/booking/includes/frontend.php on line <i>31</i>
+</th></tr>
+<tr><th align="left" bgcolor="#e9b96e" colspan="5">Call Stack</th></tr>
+<tr>
+<th align="center" bgcolor="#eeeeec">#</th>
+<th align="left" bgcolor="#eeeeec">Time</th>
+<th align="left" bgcolor="#eeeeec">Memory</th>
+<th align="left" bgcolor="#eeeeec">Function</th>
+<th align="left" bgcolor="#eeeeec">Location</th>
+</tr>
+<tr>
+<td bgcolor="#eeeeec" align="center">1</td>
+<td bgcolor="#eeeeec" align="center">0.0020</td>
+<td bgcolor="#eeeeec" align="right">369384</td>
+<td bgcolor="#eeeeec">{main}(  )</td>
+<td title="/Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/includes/beaver-builder/modules/booking/includes/frontend.php" bgcolor="#eeeeec">.../frontend.php<b>:</b>0</td>
+</tr>
+</table></font>
 <br>
-<b>Warning</b>:  Attempt to read property "padding" on null in <b>/Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/includes/beaver-builder/modules/booking/includes/frontend.php</b> on line <b>31</b><br>
+<font size="1"><table class="xdebug-error xe-warning" dir="ltr" border="1" cellspacing="0" cellpadding="1">
+<tr><th align="left" bgcolor="#f57900" colspan="5">
+<span style="background-color: #cc0000; color: #fce94f; font-size: x-large;">( ! )</span> Warning: Attempt to read property "padding" on null in /Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/includes/beaver-builder/modules/booking/includes/frontend.php on line <i>31</i>
+</th></tr>
+<tr><th align="left" bgcolor="#e9b96e" colspan="5">Call Stack</th></tr>
+<tr>
+<th align="center" bgcolor="#eeeeec">#</th>
+<th align="left" bgcolor="#eeeeec">Time</th>
+<th align="left" bgcolor="#eeeeec">Memory</th>
+<th align="left" bgcolor="#eeeeec">Function</th>
+<th align="left" bgcolor="#eeeeec">Location</th>
+</tr>
+<tr>
+<td bgcolor="#eeeeec" align="center">1</td>
+<td bgcolor="#eeeeec" align="center">0.0020</td>
+<td bgcolor="#eeeeec" align="right">369384</td>
+<td bgcolor="#eeeeec">{main}(  )</td>
+<td title="/Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/includes/beaver-builder/modules/booking/includes/frontend.php" bgcolor="#eeeeec">.../frontend.php<b>:</b>0</td>
+</tr>
+</table></font>
 
 <div class="fl-module-ssa-booking-wrapper">
 	<div class="ssa-booking">
 		<br>
-<b>Fatal error</b>:  Uncaught Error: Call to undefined function ssa() in /Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/includes/beaver-builder/modules/booking/includes/frontend.php:39
-Stack trace:
-#0 {main}
-  thrown in <b>/Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/includes/beaver-builder/modules/booking/includes/frontend.php</b> on line <b>39</b><br>
+<font size="1"><table class="xdebug-error xe-uncaught-exception" dir="ltr" border="1" cellspacing="0" cellpadding="1">
+<tr><th align="left" bgcolor="#f57900" colspan="5">
+<span style="background-color: #cc0000; color: #fce94f; font-size: x-large;">( ! )</span> Fatal error: Uncaught Error: Call to undefined function ssa() in /Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/includes/beaver-builder/modules/booking/includes/frontend.php on line <i>39</i>
+</th></tr>
+<tr><th align="left" bgcolor="#f57900" colspan="5">
+<span style="background-color: #cc0000; color: #fce94f; font-size: x-large;">( ! )</span> Error: Call to undefined function ssa() in /Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/includes/beaver-builder/modules/booking/includes/frontend.php on line <i>39</i>
+</th></tr>
+<tr><th align="left" bgcolor="#e9b96e" colspan="5">Call Stack</th></tr>
+<tr>
+<th align="center" bgcolor="#eeeeec">#</th>
+<th align="left" bgcolor="#eeeeec">Time</th>
+<th align="left" bgcolor="#eeeeec">Memory</th>
+<th align="left" bgcolor="#eeeeec">Function</th>
+<th align="left" bgcolor="#eeeeec">Location</th>
+</tr>
+<tr>
+<td bgcolor="#eeeeec" align="center">1</td>
+<td bgcolor="#eeeeec" align="center">0.0020</td>
+<td bgcolor="#eeeeec" align="right">369384</td>
+<td bgcolor="#eeeeec">{main}(  )</td>
+<td title="/Users/Alcarin/Local Sites/clinicdental/app/public/wp-content/plugins/simply-schedule-appointments/includes/beaver-builder/modules/booking/includes/frontend.php" bgcolor="#eeeeec">.../frontend.php<b>:</b>0</td>
+</tr>
+</table></font>
 </div>
 </div>
